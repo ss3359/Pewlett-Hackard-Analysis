@@ -1,5 +1,3 @@
-queries.sql
-
 -- Creating Tables for PH-Employee
 
 CREATE TABLE departments(
