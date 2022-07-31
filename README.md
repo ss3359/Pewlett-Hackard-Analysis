@@ -26,7 +26,7 @@ The next group of data to observe is the empolyees who are qualified to obtain m
 
 <img width="957" alt="Screen Shot 2022-07-31 at 9 33 45 AM" src="https://user-images.githubusercontent.com/104328106/182033839-4af31786-4e7b-4d64-891e-480fba87fb4d.png">
 
-In further detail, here is the count of employees who are able to obtain mentorship-eligibility from the company 
+In further detail, here is the count of employees who are able to obtain mentorship-eligibility from the company sorted by job titles.
 
 <img width="299" alt="Screen Shot 2022-07-31 at 9 40 25 AM" src="https://user-images.githubusercontent.com/104328106/182034113-31437352-db50-4ca2-8073-59a905ef4cff.png">
 
@@ -34,5 +34,14 @@ From these data tables generated, this is the information we have gathered.
 
 * There are 1,549 employees who can obatin mentorship eligibility from the company. This is a low amount of employees in comparison to the total number of employees at retirement-age. 
 * There are 577 employees who are eligible for a metorship program from the company. 
-* 
+* There are 44% of employees who have seinor roles that are able to obtain a mentorship program eligibility. 
+* What is interesting is the total number of engineers is less than the total number of staff positions meeting mentorship-program eligibility. This is because the amount of information given from senior to junior employees could be overwhelming, depending on the job title. 
+
+
+# Summary 
+In Pewlett-Hackard, we need to address how to solve the issue regarding with the "silver tsunami". There are 72,458 workers currenly employed by Pewlett-Hackard who are retirement-age. Here is a refined query of the current retirement-age employees. 
+
+<img width="964" alt="Screen Shot 2022-07-31 at 2 05 03 PM" src="https://user-images.githubusercontent.com/104328106/182043254-7ee58f7b-9cad-40a9-9fc9-606db65d494c.png">
+
+However, the total number of employees that can maintain a mentorship-program eligibility are 1,549 employees. This is not enough number of employees to mentor the next generation of new employees.
 
